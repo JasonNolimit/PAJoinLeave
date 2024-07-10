@@ -1,0 +1,5 @@
+# You can customise your join and leave messages here
+
+join-message: "&6%player% &ejoined the server."
+leave-message: "&6%player% &eleft the server."
+first-join-message: "&eWelcome &6%player% &eto the server for the first time!"

@@ -1,0 +1,5 @@
+name: PAJoinLeave
+main: com.of21.pajoinleave.PAJoinLeave
+version: 1.0
+api-version: 1.20
+description: A plugin to customize join, leave, and first join messages.
